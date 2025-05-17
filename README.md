@@ -1,12 +1,12 @@
 # HMM1
-## AIM
+### AIM
 Solution to HMM problem-1
-## EXECUTION: 
+### EXECUTION: 
 Build and run the code on Visual Studio 2010. Use F5 key to run the code.
 
-## INPUT: 
+### INPUT: 
 Initial_Model.txt, HMM_OBSERVATION_SEQUENCE_1.txt
-## OUTPUT: 
+### OUTPUT: 
 The probability of the observation sequence, given the model.
 
 ### CONSTANTS:
